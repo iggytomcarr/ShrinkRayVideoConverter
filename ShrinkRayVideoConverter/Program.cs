@@ -14,7 +14,7 @@ namespace Photino.HelloPhotino.React
                 .RunAsync();
 
             // Window title declared here for visibility
-            string windowTitle = "Photino.React Demo App";
+            string windowTitle = "Shrink Ray Video Converter";
 
             // Creating a new PhotinoWindow instance with the fluent API
             var window = new PhotinoWindow()
